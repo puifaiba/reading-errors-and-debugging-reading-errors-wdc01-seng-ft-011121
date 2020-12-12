@@ -1,3 +1,3 @@
-string = "hello world"
+"hello world"
 
-hello_world
+string = hello_world
